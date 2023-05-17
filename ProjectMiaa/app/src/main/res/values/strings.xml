@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectMiaa</string>
+    <string name="label_brightness">level : %1$.2f lux</string>
+    <string name="label_proximity">object : %1$.2f cm</string>
+</resources>
